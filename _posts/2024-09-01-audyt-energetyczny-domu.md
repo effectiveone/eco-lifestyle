@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "Audyt energetyczny domu – dlaczego warto i jak to zrobić"
-author: jekyllauthor
+author: "Redakcja Eco Life Style"
 categories: [ Energia, Dom ]
 tags: [audyt energetyczny, termomodernizacja, oszczędności energii, Czyste Powietrze, dom]
-image: assets/images/7.jpg
+cover-img: /assets/images/7.jpg
 description: "Wszystko o audycie energetycznym domu – co obejmuje, ile kosztuje i ile możesz zaoszczędzić. Bezpłatne narzędzie online do wstępnej oceny."
-featured: true
-hidden: false
 ---
 
 Audyt energetyczny domu to jedna z najważniejszych inwestycji, jakie możesz poczynić jako właściciel nieruchomości. Pozwala zrozumieć, gdzie Twój dom traci energię, jakie modernizacje przyniosą największe oszczędności i jak przygotować się do skorzystania z rządowych programów dofinansowań.

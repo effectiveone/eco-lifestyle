@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "Wegańska dieta a ślad węglowy – czy rośliny naprawdę ratują planetę"
-author: jekyllauthor
+author: "Redakcja Eco Life Style"
 categories: [ Dieta, Klimat ]
 tags: [dieta wegańska, ślad węglowy, rośliny strączkowe, klimat, zrównoważona dieta]
-image: assets/images/12.jpg
+cover-img: /assets/images/12.jpg
 description: "Jak dieta wpływa na ślad węglowy? Porównanie emisji CO2 różnych produktów spożywczych. Wegańska dieta w Polsce – marki i planowanie posiłków."
-featured: false
-hidden: false
 ---
 
 Produkcja żywności odpowiada za około 26% globalnych emisji gazów cieplarnianych. To więcej niż transport. Wybory żywieniowe, które podejmujemy trzy razy dziennie, mają realny wpływ na klimat – i to wpływ, który możemy kontrolować bezpośrednio, bez żadnych technologicznych inwestycji.

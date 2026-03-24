@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "Ekologiczne produkty do higieny – bambusowa szczoteczka i szampon w kostce"
-author: jekyllauthor
+author: "Redakcja Eco Life Style"
 categories: [ Eko Produkty, Higiena ]
 tags: [ekologiczne produkty, bambusowa szczoteczka, szampon w kostce, zero waste, higiena]
-image: assets/images/10.jpg
+cover-img: /assets/images/10.jpg
 description: "Przegląd ekologicznych produktów do higieny. Bambusowa szczoteczka, szampon w kostce, wielorazowe wkładki i polskie marki eko-kosmetyków."
-featured: false
-hidden: false
 ---
 
 Łazienka to drugie, po kuchni, miejsce w domu, gdzie generujemy mnóstwo plastikowych odpadów. Opakowania szamponów, odżywek, żeli pod prysznic, tubki past do zębów, plastikowe szczoteczki – cotygodniowe zakupy drogeryjne to lawinowe ilości plastiku jednorazowego. Na szczęście ekologiczne alternatywy są już dostępne w Polsce w szerokim wyborze i wcale nie muszą być droższe w dłuższej perspektywie.

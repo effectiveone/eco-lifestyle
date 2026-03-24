@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "Zero Waste w kuchni – 15 praktycznych porad na każdy dzień"
-author: jekyllauthor
+author: "Redakcja Eco Life Style"
 categories: [ Zero Waste, Kuchnia ]
 tags: [zero waste, kuchnia, ekologia, oszczędzanie, gotowanie]
-image: assets/images/1.jpg
+cover-img: /assets/images/1.jpg
 description: "Poznaj 15 sprawdzonych sposobów na ograniczenie odpadów w kuchni. Planowanie posiłków, kompostowanie i wielorazowe opakowania – praktyczny przewodnik."
-featured: true
-hidden: false
 ---
 
 Kuchnia to jedno z miejsc w domu, gdzie codziennie generujemy największe ilości odpadów. Opakowania plastikowe, przeterminowana żywność, jednorazowe woreczki – to wszystko trafia do kosza, choć często wcale nie musi. Dobra wiadomość jest taka, że zmiana nawyków w kuchni jest prostsza, niż się wydaje, a efekty – zarówno dla planety, jak i dla portfela – są naprawdę zauważalne.

@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "Minimalizm jako eko styl życia – jak mniej posiadać i więcej żyć"
-author: jekyllauthor
+author: "Redakcja Eco Life Style"
 categories: [ Minimalizm, Lifestyle ]
 tags: [minimalizm, świadoma konsumpcja, zero waste, lifestyle, dekluteryzacja]
-image: assets/images/11.jpg
+cover-img: /assets/images/11.jpg
 description: "Minimalizm i ekologia idą w parze. Jak mniej posiadać, lepiej żyć i zmniejszyć swój ślad środowiskowy. Praktyczny przewodnik po dekluteryzacji."
-featured: false
-hidden: false
 ---
 
 Minimalizm nie jest nową ideą, ale w dobie kryzysu klimatycznego i kulturze konsumpcjonizmu nabiera nowego znaczenia. To nie tylko estetyka pustych półek i monochromatycznych wnętrz z Instagrama – to głęboka filozofia dotycząca naszego stosunku do rzeczy, czasu i zasobów planety.

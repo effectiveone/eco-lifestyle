@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "Jak zbierać deszczówkę – systemy i korzyści"
-author: jekyllauthor
+author: "Redakcja Eco Life Style"
 categories: [ Ogród, Woda ]
 tags: [deszczówka, zbieranie wody deszczowej, ogród, oszczędność wody, zbiornik]
-image: assets/images/15.jpg
+cover-img: /assets/images/15.jpg
 description: "Jak zbierać deszczówkę w domu i ogrodzie? Prosta beczka czy podziemny zbiornik – koszty, przepisy i realne oszczędności."
-featured: false
-hidden: false
 ---
 
 Woda to zasób, który zaczynamy cenić dopiero gdy zaczyna jej brakować. Polska zmaga się z coraz częstszymi suszami – latem 2022 roku poziomy wód gruntowych w wielu regionach były rekordowo niskie. Zbieranie deszczówki to jedno z najprostszych i najtańszych działań, które możemy podjąć, by zmniejszyć presję na zasoby wodne i zaoszczędzić na rachunkach.

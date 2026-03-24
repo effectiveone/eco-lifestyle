@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "Rower elektryczny zamiast samochodu – kalkulator oszczędności"
-author: jekyllauthor
+author: "Redakcja Eco Life Style"
 categories: [ Transport, Eko Mobilność ]
 tags: [rower elektryczny, e-bike, transport, oszczędności, emisje CO2]
-image: assets/images/4.jpg
+cover-img: /assets/images/4.jpg
 description: "Porównanie kosztów roweru elektrycznego i samochodu. Ile oszczędzisz na paliwie, ubezpieczeniu i parkingach? Polskie marki e-bike i programy dopłat."
-featured: false
-hidden: false
 ---
 
 Samochód osobowy to dla wielu Polaków symbol wolności i wygody. Ale czy na pewno jest tak ekonomiczny i praktyczny, jak nam się wydaje? Coraz więcej miejskich dojeżdżających odkrywa, że rower elektryczny nie tylko jest tańszy w użytkowaniu, ale też często szybszy w ruchu miejskim. Sprawdźmy liczby.

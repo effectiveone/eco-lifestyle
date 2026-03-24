@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "Plastik free challenge – 30 dni bez plastiku jednorazowego"
-author: jekyllauthor
+author: "Redakcja Eco Life Style"
 categories: [ Zero Waste, Challenge ]
 tags: [plastik free, challenge, zero waste, jednorazowy plastik, alternatywy]
-image: assets/images/13.jpg
+cover-img: /assets/images/13.jpg
 description: "30-dniowe wyzwanie bez plastiku jednorazowego. Tygodniowy plan, zamienniki i polskie sklepy zero waste. Zacznij dziś!"
-featured: false
-hidden: false
 ---
 
 30 dni bez plastiku jednorazowego. Brzmi jak wyzwanie? Jest! Ale też doskonała okazja, żeby zdać sobie sprawę z tego, ile plastiku konsumujemy niemal nieświadomie każdego dnia. To wyzwanie nie wymaga od Ciebie perfekcji – wymaga świadomości i chęci eksperymentu.

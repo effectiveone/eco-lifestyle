@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "Second hand i vintage – moda zrównoważona, która oszczędza planetę i portfel"
-author: jekyllauthor
+author: "Redakcja Eco Life Style"
 categories: [ Moda, Zero Waste ]
 tags: [second hand, vintage, moda zrównoważona, Vinted, fast fashion]
-image: assets/images/6.jpg
+cover-img: /assets/images/6.jpg
 description: "Dlaczego second hand to lepszy wybór niż fast fashion? Gdzie kupować używane ubrania w Polsce: Vinted, OLX, Szafa.pl i sklepy vintage."
-featured: false
-hidden: false
 ---
 
 Branża modowa jest odpowiedzialna za 10% globalnych emisji CO2, więcej niż lotnictwo i żegluga morska razem wzięte. Każdego roku na całym świecie produkuje się ponad 100 miliardów sztuk odzieży, z czego ogromna część trafia na wysypiska po kilku założeniach. Fast fashion to nie tylko etyczny problem – to prawdziwa katastrofa środowiskowa.

@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "Kompostowanie w mieszkaniu – jak to zrobić bez zapachu i much"
-author: jekyllauthor
+author: "Redakcja Eco Life Style"
 categories: [ Zero Waste, Dom ]
 tags: [kompostowanie, bokashi, wermikomposter, mieszkanie, zero waste]
-image: assets/images/9.jpg
+cover-img: /assets/images/9.jpg
 description: "Kompostowanie w mieszkaniu bez zapachu – metody bokashi, wermikomposter i kompostowniki elektryczne. Polskie produkty i gdzie kupić."
-featured: false
-hidden: false
 ---
 
 „Kompostowanie to dla tych, co mają ogród" – słyszę to często od mieszkańców bloków. Nic bardziej mylnego. W ciągu ostatnich lat pojawiło się kilka sprytnych rozwiązań, które pozwalają przetwarzać odpady organiczne nawet w małym mieszkaniu na trzecim piętrze, bez nieprzyjemnych zapachów i owadów.

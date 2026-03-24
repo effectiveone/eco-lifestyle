@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "Recykling elektrośmieci – gdzie oddać stary telefon i komputer"
-author: jekyllauthor
+author: "Redakcja Eco Life Style"
 categories: [ Zero Waste, Recykling ]
 tags: [elektrośmieci, recykling, PSZOK, telefon, komputer, e-waste]
-image: assets/images/19.jpg
+cover-img: /assets/images/19.jpg
 description: "Gdzie oddać stary telefon, laptop i sprzęt AGD w Polsce? PSZOK, punkty odbioru w sklepach i przepisy o elektrośmieciach."
-featured: false
-hidden: false
 ---
 
 Elektrośmieci (WEEE – Waste Electrical and Electronic Equipment) to jeden z najszybciej rosnących strumieni odpadów na świecie. W Polsce co roku wyrzucamy setki tysięcy ton zużytego sprzętu elektronicznego i AGD. Większość z tych urządzeń zawiera cenne surowce (złoto, srebro, miedź, kobalt) oraz substancje niebezpieczne (ołów, rtęć, kadm). Właściwy recykling to konieczność, nie opcja.

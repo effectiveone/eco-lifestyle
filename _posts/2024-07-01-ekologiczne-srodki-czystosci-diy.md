@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "Ekologiczne środki czystości DIY – zrób sam za grosze"
-author: jekyllauthor
+author: "Redakcja Eco Life Style"
 categories: [ Zero Waste, DIY ]
 tags: [DIY, środki czystości, ocet, soda, cytryna, ekologia]
-image: assets/images/3.jpg
+cover-img: /assets/images/3.jpg
 description: "Przepisy na domowe, ekologiczne środki czystości z octu, sody i cytryny. Skuteczne, tanie i w pełni bezpieczne dla środowiska."
-featured: false
-hidden: false
 ---
 
 Przeciętne polskie gospodarstwo domowe wydaje kilkaset złotych rocznie na środki czystości. Większość z nich zawiera substancje chemiczne szkodliwe dla środowiska wodnego, pochodzi w plastikowych opakowaniach jednorazowych i jest po prostu droga w stosunku do skuteczności. Tymczasem kilka prostych, tanich składników z każdego supermarketu zastąpi niemal cały asortyment chemii gospodarczej.

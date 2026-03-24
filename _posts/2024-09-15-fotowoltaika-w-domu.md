@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "Fotowoltaika w domu – podstawy, koszty i zwrot z inwestycji"
-author: jekyllauthor
+author: "Redakcja Eco Life Style"
 categories: [ Energia, OZE ]
 tags: [fotowoltaika, panele słoneczne, OZE, Czyste Powietrze, inwestycja]
-image: assets/images/8.jpg
+cover-img: /assets/images/8.jpg
 description: "Kompleksowy przewodnik po fotowoltaice w Polsce. Koszty systemu 5kW, czas zwrotu inwestycji, net-metering i dofinansowanie z Czyste Powietrze."
-featured: false
-hidden: false
 ---
 
 Fotowoltaika to jeden z najszybciej rosnących segmentów energetyki odnawialnej w Polsce. W ciągu ostatnich pięciu lat liczba prosumentów – czyli właścicieli domowych instalacji fotowoltaicznych – wzrosła z kilku tysięcy do ponad miliona. Co sprawia, że panele słoneczne stają się tak popularne i czy to się naprawdę opłaca?

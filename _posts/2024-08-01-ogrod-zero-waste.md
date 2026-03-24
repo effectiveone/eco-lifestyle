@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "Ogród zero waste – kompostowanie, deszczówka i eko uprawa"
-author: jekyllauthor
+author: "Redakcja Eco Life Style"
 categories: [ Ogród, Zero Waste ]
 tags: [ogród, kompostowanie, deszczówka, uprawa ekologiczna, zero waste]
-image: assets/images/5.jpg
+cover-img: /assets/images/5.jpg
 description: "Jak prowadzić ogród bez odpadów? Kompostowanie, zbieranie deszczówki, towarzyszenie roślin i organiczna ochrona – kompletny poradnik."
-featured: false
-hidden: false
 ---
 
 Ogród może być miejscem, gdzie zero waste zamienia się w rzeczywistość w najbardziej dosłownym sensie – odpadki kuchenne stają się nawozem, deszcz zastępuje wodę z kranu, a rośliny chronią się nawzajem bez chemii. Oto jak podejść do ekologicznej uprawy krok po kroku.

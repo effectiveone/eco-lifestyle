@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "Jak zmniejszyć swój ślad węglowy – 10 działań z największym efektem"
-author: jekyllauthor
+author: "Redakcja Eco Life Style"
 categories: [ Klimat, Poradniki ]
 tags: [ślad węglowy, klimat, emisje CO2, transport, dieta]
-image: assets/images/2.jpg
+cover-img: /assets/images/2.jpg
 description: "Poznaj 10 działań o największym wpływie na Twój ślad węglowy. Dieta, transport, dom i podróże – gdzie zmiana robi największą różnicę."
-featured: false
-hidden: false
 ---
 
 Ślad węglowy to suma emisji gazów cieplarnianych, które generujemy swoją codzienną aktywnością. Przeciętny Polak odpowiada za emisję około 8-9 ton CO2 rocznie – to znacznie więcej niż wynosi bezpieczny poziom dla klimatu (około 2 ton na osobę). Dobra wiadomość: nie wszystkie nasze działania mają taki sam wpływ. Skupiając się na kilku kluczowych obszarach, możemy obniżyć swoje emisje nawet o połowę.

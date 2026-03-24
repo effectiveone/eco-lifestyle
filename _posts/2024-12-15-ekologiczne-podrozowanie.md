@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "Eko podróżowanie – jak zmniejszyć emisje na wakacjach"
-author: jekyllauthor
+author: "Redakcja Eco Life Style"
 categories: [ Podróże, Klimat ]
 tags: [eko podróżowanie, zrównoważona turystyka, pociąg vs samolot, Green Key, carbon offset]
-image: assets/images/14.jpg
+cover-img: /assets/images/14.jpg
 description: "Jak podróżować z mniejszym śladem węglowym? Pociąg kontra samolot, certyfikowane hotele Green Key i programy kompensacji emisji."
-featured: false
-hidden: false
 ---
 
 Podróże to jedna z największych radości życia, ale też jeden z większych generatorów emisji CO2. Przeciętny lot transatlantycki na osobę odpowiada za emisję porównywalną z 2–3 miesiącami codziennego używania samochodu. Nie musisz rezygnować z wakacji, ale warto wiedzieć, jak podróżować mądrzej.

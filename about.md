@@ -10,14 +10,6 @@ Witamy na portalu Eco Life Style! Jesteśmy społecznością ludzi, którzy wier
 
 ## Nasza misja
 
-Pokazujemy, że ekologiczny styl życia jest dostępny dla każdego – niezależnie od budżetu, lokalizacji czy stylu życia. Dostarczamy praktycznych porad, inspiracji i rzetelnych informacji.
+Pokazujemy, że ekologiczny styl życia jest dostępny dla każdego. Dostarczamy praktycznych porad, inspiracji i rzetelnych informacji.
 
-## Obszary tematyczne
-
-- **Zero Waste** – minimalizacja odpadów w codziennym życiu
-- **Zielona energia** – OZE, fotowoltaika, pompy ciepła
-- **Eko produkty** – świadome zakupy
-- **Zrównoważone podróże** – turystyka odpowiedzialna
-- **Wegańska dieta** – roślinna kuchnia
-
-Chcesz sprawdzić jak Twój dom wpływa na środowisko? Skorzystaj z audytu energetycznego na [ecoaudyt.app](https://ecoaudyt.app).
+Chcesz sprawdzić jak Twój dom wpływa na środowisko? Skorzystaj z audytu na [ecoaudyt.app](https://ecoaudyt.app).

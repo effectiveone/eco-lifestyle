@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "Czy Twój dom jest energooszczędny? Zrób bezpłatny audyt online"
-author: jekyllauthor
+author: "Redakcja Eco Life Style"
 categories: [ Energia, Dom ]
 tags: [audyt energetyczny online, energooszczędność, klasa energetyczna, ecoaudyt, oszczędności]
-image: assets/images/20.jpg
+cover-img: /assets/images/20.jpg
 description: "Sprawdź klasę energetyczną swojego domu za darmo online. Jak audyt energetyczny pomaga zaoszczędzić i skorzystać z dofinansowań rządowych."
-featured: true
-hidden: false
 ---
 
 Mieszkasz w domu, który wylewa ciepło przez nieszczelne okna i słabo ocieplone ściany? A może Twój dom jest nowy i myślisz, że wszystko jest w porządku – a tymczasem kilka prostych zmian mogłoby obciąć rachunki o jedną trzecią? Jedynym sposobem, żeby się tego dowiedzieć, jest audyt energetyczny. I dobra wiadomość: możesz to zrobić za darmo, online, w kilka minut.

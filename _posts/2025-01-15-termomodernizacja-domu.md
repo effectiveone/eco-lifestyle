@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "Termomodernizacja domu krok po kroku – ulgi i dofinansowania 2025"
-author: jekyllauthor
+author: "Redakcja Eco Life Style"
 categories: [ Dom, Energia ]
 tags: [termomodernizacja, Czyste Powietrze, ulga termomodernizacyjna, izolacja, dom]
-image: assets/images/16.jpg
+cover-img: /assets/images/16.jpg
 description: "Kompletny przewodnik po termomodernizacji domu w 2025 roku. Koszty, kolejność prac, program Czyste Powietrze i ulga termomodernizacyjna w PIT."
-featured: true
-hidden: false
 ---
 
 Termomodernizacja domu to inwestycja, która zwraca się latami w postaci niższych rachunków za energię, wyższego komfortu cieplnego i wzrostu wartości nieruchomości. W 2025 roku masz do dyspozycji potężne narzędzia finansowe – program Czyste Powietrze z dotacjami do 135 000 zł i ulgę termomodernizacyjną w PIT pozwalającą odliczyć do 53 000 zł od podatku. Jak to wszystko poukładać?

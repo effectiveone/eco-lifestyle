@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "Pompa ciepła w domu – czy to się opłaca w 2025 roku"
-author: jekyllauthor
+author: "Redakcja Eco Life Style"
 categories: [ Energia, OZE, Dom ]
 tags: [pompa ciepła, OZE, Czyste Powietrze, ogrzewanie, Daikin, Mitsubishi]
-image: assets/images/17.jpg
+cover-img: /assets/images/17.jpg
 description: "Pompa ciepła w polskim domu w 2025 roku – koszty, zwrot inwestycji, COP, dotacje Czyste Powietrze i najlepsze marki na rynku."
-featured: false
-hidden: false
 ---
 
 Pompa ciepła stała się synonimem nowoczesnego, ekologicznego ogrzewania domów w Polsce. Po rekordowym wzroście sprzedaży w 2022–2023 roku rynek nieco się ustabilizował, ale zainteresowanie pozostaje ogromne. Czy pompa ciepła to dobry wybór dla Twojego domu w 2025 roku? Sprawdźmy liczby.

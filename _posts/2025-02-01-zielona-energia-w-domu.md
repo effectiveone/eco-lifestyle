@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "Zielona energia w domu – jak przejść na OZE bez paneli słonecznych"
-author: jekyllauthor
+author: "Redakcja Eco Life Style"
 categories: [ Energia, OZE ]
 tags: [zielona energia, OZE, taryfa energetyczna, magazyn energii, Tauron, Enea]
-image: assets/images/18.jpg
+cover-img: /assets/images/18.jpg
 description: "Jak korzystać z zielonej energii bez własnej fotowoltaiki? Taryfy OZE, energy sharing i certyfikaty gwarancji pochodzenia w Polsce."
-featured: false
-hidden: false
 ---
 
 Własna fotowoltaika to marzenie wielu Polaków, ale nie każdy ma odpowiedni dach, budżet lub warunki. Na szczęście istnieje kilka innych sposobów, żeby czerpiący z OZE prąd zasilał Twoje gospodarstwo domowe – bez wiercenia i bez montażu paneli.
