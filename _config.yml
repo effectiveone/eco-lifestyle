@@ -1,0 +1,52 @@
+title: "Eco Life Style"
+email: "kontakt@eco-lifestyle.pl"
+description: "Ekologiczny styl życia dla każdego. Zero waste, zielona energia, eko produkty i świadome decyzje zakupowe."
+url: "https://effectiveone.github.io"
+baseurl: "/eco-lifestyle"
+lang: pl
+
+remote_theme: wowthemesnet/mediumish-theme-jekyll
+
+timezone: Europe/Warsaw
+
+# Mediumish settings
+logo: "/assets/images/logo.png"
+lazyimages: "disabled"
+cover: "/assets/images/cover.jpg"
+disqus: ""
+mailchimp: ""
+mailchimp_url: ""
+
+# Author info
+author_logo: "/assets/images/avatar.png"
+author: "Redakcja Eco Life Style"
+author_bio: "Promujemy ekologiczny i świadomy styl życia. Zero waste, OZE i zrównoważony rozwój."
+author_email: "kontakt@eco-lifestyle.pl"
+author_location: "Polska"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+paginate: 8
+
+permalink: /:year/:month/:day/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author: "Redakcja Eco Life Style"
+      image: "/assets/images/default-eco.jpg"
+
+exclude:
+  - "*.gem"
+  - "*.gemspec"
+  - Gemfile.lock
+  - vendor/
+  - .bundle/
